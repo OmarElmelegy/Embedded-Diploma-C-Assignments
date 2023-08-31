@@ -10,3 +10,6 @@
 * C9 Algorithms(1) _No_Assignment
 * C10 Algorithms(2)
 * C11 Storage duration, Scope, Linkage _No_Assignment
+* C12 Pointers(1)
+* C13 Pointers(2) _No_Assignment
+* C14 Pointers(3) _No_Assignment
